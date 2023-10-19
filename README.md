@@ -1,6 +1,6 @@
 ########################################################################
-# Bank API
-## API Web para crud bank 
+# Product API
+## API Web para crud Product 
 Esta API serve para criação e integração de operações financeiras
 Este projeto é um dos componentes que fazem parte do projeto Financial.
 > Você pode obter mais informações sobre o projeto  **Financial** , seus componentes e motivação [aqui](https://bitbucket.org/bjbraz_financial/transactions_api/src/master/).

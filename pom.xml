@@ -9,14 +9,14 @@
         <relativePath/>
     </parent>
     <groupId>br.com.bjbraz</groupId>
-    <artifactId>bank_api</artifactId>
+    <artifactId>products_api</artifactId>
     <version>0.0.3-SNAPSHOT</version>
-    <name>bank_api</name>
-    <description>Bank API</description>
+    <name>products_api</name>
+    <description>Products API</description>
 
     <properties>
         <java.version>1.8</java.version>
-        <kotlin.version>1.3.72</kotlin.version>
+        <kotlin.version>1.6.0</kotlin.version>
         <spring.version>5.1.2.RELEASE</spring.version>
         <spring-data.version>2.1.2.RELEASE</spring-data.version>
         <hibernate-validator.version>6.0.9.Final</hibernate-validator.version>
